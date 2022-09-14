@@ -1,0 +1,5 @@
+max-width: 400 px
+de valor menor até 400px 
+
+Min-width: 320 px
+valor maior ate 320px
